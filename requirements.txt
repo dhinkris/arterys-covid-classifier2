@@ -1,0 +1,10 @@
+boto3
+flask
+numpy
+pydicom
+pyyaml
+requests-toolbelt
+SimpleITK
+tensorflow==1.15
+opencv-python
+Pillow
